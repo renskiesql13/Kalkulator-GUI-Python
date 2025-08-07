@@ -1,8 +1,6 @@
 # Kalkulator GUI Sederhana dengan Python
 
 ![Screenshot Kalkulator](https://i.imgur.com/Tv7AwAp.png)
-![alt text](image.png)
-
 
 ## 📝 Deskripsi Proyek
 

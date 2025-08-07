@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Nama Proyek : Kalkulator GUI Sederhana
-Author      : [Nama Anda]
+Author      : [Clive Morens Tampi]
 Tanggal     : Agustus 2025
 Deskripsi   : Sebuah aplikasi kalkulator desktop fungsional yang dibuat
               menggunakan Python dan pustaka Tkinter.
